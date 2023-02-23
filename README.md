@@ -27,3 +27,11 @@ npx hardhat run scripts/deploy.js
 
 # 7.11 Git Tools - Submodules
 https://git-scm.com/book/en/v2/Git-Tools-Submodules
+
+
+-- -
+# AFTER CLONE  
+ - git submodule init
+
+ - git submodule update
+
