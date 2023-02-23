@@ -24,3 +24,6 @@ npx hardhat run scripts/deploy.js
 
 # Utilizando o Git Submodules
 <https://imasters.com.br/desenvolvimento/utilizando-o-git-submodules>
+
+# 7.11 Git Tools - Submodules
+https://git-scm.com/book/en/v2/Git-Tools-Submodules
