@@ -11,3 +11,16 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+
+# Create Repositories
+
+## Create Submodules
+
+    git submodule add <url-repositorio> diretorio
+
+## Update
+
+    git submodule update
+
+# Utilizando o Git Submodules
+<https://imasters.com.br/desenvolvimento/utilizando-o-git-submodules>
